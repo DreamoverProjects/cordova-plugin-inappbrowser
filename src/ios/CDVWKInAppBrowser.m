@@ -19,7 +19,7 @@
 
 #import "CDVWKInAppBrowser.h"
 #import <Cordova/NSDictionary+CordovaPreferences.h>
-#import <Cordova/CDVWebViewProcessPoolFactory.h>
+#import <CDVWebViewProcessPoolFactory.h>
 #import <Cordova/CDVPluginResult.h>
 
 #define    kInAppBrowserTargetSelf @"_self"
